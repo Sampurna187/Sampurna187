@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sampurna Ghosh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 - 🔭 I’m currently working on [Textify](https://github.com/Sampurna187/Textify)
 
 - 🌱 I’m currently learning **MERN stack**
