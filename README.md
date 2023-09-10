@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sampurna187](https://github.com/Sampurna187)
 
-- 💬 Ask me about **html, css, javascript, bootstrap, jquery, react, node.js**
+- 💬 Ask me about **html, css, javascript, bootstrap, jquery, react, node.js, express.js, mongoDB**
 
 - 📫 How to reach me **sampurnaghosh.187@gmail.com**
 
